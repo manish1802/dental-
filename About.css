@@ -1,0 +1,198 @@
+:root{
+    --color-primary: #00d9ff;
+    --color-secondary: #20749b;
+    --color-button:  #77cedd;
+    --color-white: #fff;
+    --color-body: #918ca4
+ }
+ .navbar {
+   width: 100%;
+   display: flex;
+   background-image: radial-gradient(#6fcddd, var(--color-secondary));
+   box-shadow: 8px 3px 5px #cccbcb;
+ }
+ .navbar-itam {
+   display: flex;
+   margin-left: 1%;
+   margin-left: 35%;
+ }
+ .downlode-itam {
+   list-style-type: none;
+   padding: 30px;
+   font-size: 22px;
+   font-weight: 600;
+   font-family: serif;
+   cursor: pointer;
+ }
+ .downlode-itam:hover {
+   background-color: #39396e;
+   color: #f3f3f5;
+ }
+ .phone-itam {
+   list-style-type: none;
+   padding: 30px;
+   font-size: 22px;
+   font-weight: 600;
+   font-family: serif;
+   cursor: pointer;
+ }
+ .phone-itam:hover {
+   background-color: #39396e;
+   color: #f3f3f5;
+ }
+ .number-itam {
+   list-style-type: none;
+   padding: 30px;
+   font-size: 22px;
+   font-weight: 600;
+   font-family: serif;
+   cursor: pointer;
+ }
+ .number-itam:hover {
+   background-color: #39396e;
+   color: #f3f3f5;
+ }
+ .header-container{
+   width: 100%;
+   display: flex;
+ }
+ .logo-img{
+      margin-left:5%;
+      padding: 35px;
+ }
+ .servises{
+   width:60%;
+   margin-top:5%;
+   display: flex;
+   margin-left: 2%;
+ }
+ .servises-img{
+    width: 5%;
+    padding: 8px;
+    height: 30px;
+ }
+ .span-{
+   color:#1e92a7, ;
+ }
+ body{
+    margin: 0px;
+    overflow-x: hidden;
+}
+.about-container{
+    width: 100%;
+    background-color: rgb(4, 186, 231);
+    display: flex;
+}
+.about-img{
+    width:40%;
+    height: auto;
+    margin-left: 5%;
+}
+.heading-container{
+    width: 50%;
+    margin-left: 15%;
+    margin-top: 7%;
+}
+.special-package{
+     font-size: 70px;
+     color: aliceblue;
+}
+.treatement{
+    margin-top:2%;
+    letter-spacing: 3px;
+    font-size: 30px;
+    color: rgb(19, 53, 83);
+}
+.second-container{
+    width: 100%;
+    margin-top: 5%;
+    display: flex;
+}
+.background-img{
+    width:50%;
+}
+.img2{
+    width:100%;
+    margin-left:10%; 
+}
+.heading{
+   width: 30%;
+   padding:20px;
+   margin-left:8%;
+}
+.best-solution{
+    color:rgb(19, 53, 83) ;
+}
+.implant-dental{
+    color:rgb(47, 187, 187 );
+    line-height:1.5px;
+}
+.peragraph{
+    color: rgb(135, 148, 144);
+    margin-bottom: 5%;
+    font-size: 20px;
+}
+.list-item{
+    color: rgb(135, 148, 144);
+}
+.itam{
+    padding: 15px;
+    font-size: 20px;
+}
+.third-container{
+    width: 100%;
+    display: flex;
+    margin-top: 5%;
+}
+.mouth-and-dental-health{
+    width: 50%;
+    margin-left: 15%;
+    color:rgb(47, 187, 187 );
+    font-weight: 600;
+    font-family: normal;
+}
+.our-services{
+    margin-left: 15%;
+    font-size: 20px;
+    width: 50%;
+    color:rgb(135, 148, 144) ;
+}
+.footer-logo{
+width:100% ;
+background-color: rgb(21, 21, 54);
+}
+.footer-img{
+width: 80%;
+margin-left:10%;
+margin-top: 5%;
+} 
+.footer{
+    width:100%;
+    display: flex;
+    background-color:rgb(65, 144, 189) ;
+    
+    }
+    .dental-health{
+     width:20% ;
+     margin-left:10%;
+     color: rgb(23, 48, 77);
+    }
+    .useful-link {
+    width:10% ;
+    margin-left:5%;
+    color: rgb(23, 48, 77);
+    
+    }
+    .contact-info{
+    width:20% ;
+     margin-left:5%;
+    color: rgb(23, 48, 77);
+    }
+    .photo-gallery{
+    width: 15%;
+    color: rgb(23, 48, 77);
+    float: left;
+    }
+    .footer-imgs{
+    width: 20%;
+    }

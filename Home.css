@@ -1,0 +1,336 @@
+body{
+    margin:0px;
+    overflow-x: hidden;
+}
+:root{
+    --color-primary: #00d9ff;
+    --color-secondary: #20749b;
+    --color-button:  #95e2f0;
+    --color-white: #fff;
+    --color-body: #918ca4
+ }
+ .navbar {
+   width: 100%;
+   display: flex;
+   background-image: radial-gradient(#6fcddd, var(--color-secondary));
+   box-shadow: 8px 3px 5px #cccbcb;
+ }
+ .navbar-itam {
+   display: flex;
+   margin-left: 1%;
+   margin-left: 35%;
+ }
+ .downlode-itam {
+   list-style-type: none;
+   padding: 30px;
+   font-size: 22px;
+   font-weight: 600;
+   font-family: serif;
+   cursor: pointer;
+ }
+ .downlode-itam:hover {
+   background-color: #39396e;
+   color: #f3f3f5;
+ }
+ .phone-itam {
+   list-style-type: none;
+   padding: 30px;
+   font-size: 22px;
+   font-weight: 600;
+   font-family: serif;
+   cursor: pointer;
+ }
+ .phone-itam:hover {
+   background-color: #39396e;
+   color: #f3f3f5;
+ }
+ .number-itam {
+   list-style-type: none;
+   padding: 30px;
+   font-size: 22px;
+   font-weight: 600;
+   font-family: serif;
+   cursor: pointer;
+ }
+ .number-itam:hover {
+   background-color: #39396e;
+   color: #f3f3f5;
+ }
+ .header-container{
+   width: 100%;
+   display: flex;
+ }
+ .logo-img{
+      margin-left:5%;
+      padding: 35px;
+      object-fit: cover; 
+ }
+ .servises{
+   width:60%;
+   margin-top:4%;
+   display: flex;
+   margin-left: 4%;
+   object-fit: cover;
+ }
+ .servises-img{
+    width: 5%;
+    padding:10px;
+    height: 40px;
+    object-fit: cover;
+ }
+ .span-{
+   color:#1e92a7, ;
+ }
+.container{
+    width: 100%;
+    height:auto;
+    background-color: rgb(47, 187, 187);
+    display: flex;
+}
+.heading-container{
+    width: 40%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.special-package{
+     font-size: 30px;
+     color: aliceblue;
+     letter-spacing: 10px;
+}
+.treatement{
+    margin-top:3%;
+    letter-spacing: 3px;
+    font-size: 30px;
+    color: rgb(19, 53, 83);
+}
+/* .background-img1{
+    width:50%;
+} */
+.img{
+    width: 40%;
+}
+.second-container{
+    width: 100%;
+    display: flex;
+}
+.background-img{
+    width:40%;
+}
+.img2{
+    width:80%;
+    margin-left: 18%;
+}
+.heading{
+   width: 50%;
+   padding:20px; 
+}
+.best-solution{
+    color:rgb(19, 53, 83) ;
+}
+.implant-dental{
+    color:rgb(47, 187, 187 );
+    line-height:1.5px;
+}
+.peragraph{
+    color: rgb(135, 148, 144);
+    margin-bottom: 5%;
+}
+.list-item{
+    color: rgb(135, 148, 144);
+}
+.itam{
+    padding: 15px;
+    font-size: 20px;
+}
+.third-container{
+    display: flex;
+    margin-top: 5%;
+     margin-left:5%; 
+    line-height:10px;
+}
+.mouth-and-dental-container{
+    width:40%
+}
+.mouth-and-dental-health{
+    color:rgb(19, 53, 83);
+    font-weight: 600;
+    font-family: normal;
+}
+.our-services{
+    letter-spacing: 2px;
+    color: rgb(47, 187, 187) ;
+}
+.all-services{
+    /* margin-top:1%; */
+    /* margin-left: 10%; */
+    background-color:rgb(19, 53, 83);
+    color: aliceblue;
+    width: 18%;
+    height: 75px;
+    border-radius: 40px;
+}
+.card-container{
+    width: 100%;
+    padding:30px;
+    margin-left: 10%;
+    text-align: center;
+}
+.first-card{
+    width: 100%;
+    display: flex;
+}
+.card-img{
+    width:60%;
+    height: auto;
+    }
+.card-peragraph{
+   width: 70%;
+   margin-left: 12%;
+   text-align: center;
+   color:rgb(135, 148, 144) ;
+}
+.card{
+    width:23%;
+    height: auto;
+    margin-left: 2%;
+    border-radius:60px;
+    color:rgb(19, 53, 83);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.second-card{
+    width: 100%;
+    /* margin-left: 5%; */
+    margin-top: 4%;
+    display: flex;
+}
+.footer-logo{
+ width:100% ;
+background-color: rgb(21, 21, 54);
+}
+.footer-img{
+width: 100%;
+margin-left:8%;
+margin-top: 5%;
+} 
+.question-heading{
+width: 100%;
+text-align: center;
+}
+.frequenrly{
+  color: rgb(19, 53, 83);
+}
+.mouth-jaw{
+color:rgb(47, 187, 187);
+}
+.cases-of-gum-bleeding{
+   width: 80%;
+   text-align: left;
+   margin-left: 10%;
+   padding: 20px;
+   background-color:rgb(47, 187, 187);
+   color: aliceblue;
+}
+.cases-peragraph{
+width: 70%;
+font-size: 20px;
+margin-left: 10%;
+color:rgb(135, 148, 144);
+text-align: justify;
+}
+.footer{
+width:100%;
+display: flex;
+background-color:rgb(65, 144, 189) ;
+
+}
+.dental-health{
+ width:20% ;
+ margin-left:10%;
+ color: rgb(23, 48, 77);
+}
+.useful-link {
+width:10% ;
+margin-left:5%;
+color: rgb(23, 48, 77);
+
+}
+.contact-info{
+width:20% ;
+ margin-left:5%;
+color: rgb(23, 48, 77);
+}
+.photo-gallery{
+width: 15%;
+color: rgb(23, 48, 77);
+float: left;
+}
+.footer-imgs{
+width: 20%;
+}
+@media ( max-width:700px){
+.second-container{
+flex-direction:column;
+text-align: center;
+}
+.background-img{
+width: 100%;
+}
+.heading{
+width: 100%;
+}
+.third-container{
+flex-direction: column;
+text-align: center;
+}
+.mouth-and-dental-container{
+width: 100%;
+line-height: 20px;
+}
+.mouth-and-dental-health{
+width: 100%;
+}
+.all-services{
+width: 50%;
+margin-left: 25%;
+}
+.card-container{
+flex-direction: column;
+}
+.first-card{
+flex-direction: column;
+text-align: center;
+}
+.card{
+width: 80%;
+padding: 20px;
+margin: 3%;
+}
+.second-card{
+flex-direction: column;
+text-align: center;
+}
+.footer-logo{
+width: 100%;
+flex-direction: row-reverse;
+}
+.footer-img{
+width: 10%;
+}
+.footer{
+flex-direction: column;
+text-align: center;
+}
+.dental-health{
+width: 80%;
+}
+.useful-link{
+width: 90%;
+}
+.contact-info{
+width: 100%;
+}
+.photo-gallery{
+width: 100%;
+
+}
+}
